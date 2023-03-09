@@ -12,3 +12,5 @@ if (result < 18.5) {
    setCategory("Obese");
 }
 ```
+
+untuk live preview dapat di lihat di link berikut https://codesandbox.io/s/bmi-d084to
